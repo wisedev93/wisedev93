@@ -33,6 +33,9 @@ EV infra, IoT Device, Mobile, Web, Ad tech 등 다양한 도메인에서 서비�
 - AI 도구를 활용한 개발 생산성 혁신
 - 팀 개발 문화 구축과 테크 리드십
 
+## 🏠 blog
+
+https://wise93devlog.vercel.app/
 
 <!--
 **wisedev93/wisedev93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
